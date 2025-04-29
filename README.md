@@ -1,5 +1,10 @@
 # Scrolling-characters-on-MAX7219-display-and-ESP8266
 
+A program to show the scrolling text capabilities of the MAX7219 display using the MD_MAX72xx library in arduino.
+
+The library (MD_MAX72xx) can be installed using the boards manager in the Arduino IDE or can be installed from the github link (provided below) :
+``` https://github.com/MajicDesigns/MD_MAX72XX ```
+
 ## Pinout:
 | MAX7219  | ESP8266 |
 | ------------- | ------------- |
